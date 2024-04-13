@@ -1,0 +1,15 @@
+{
+  "name": "triangulate",
+  "version": "0.8.0",
+  "description": "collect triangulation data and locate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "navigation",
+    "no-gps"
+  ],
+  "author": "alex bodnaru",
+  "license": "GPL-3.0-or-later"
+}
